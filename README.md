@@ -16,7 +16,7 @@
 3. CryptoCompare API key; Sign up for one [here](https://min-api.cryptocompare.com/)
 
 ## Getting Started
-1. Clone repository on chall_2 branch `git clone -b chall_2 https://github.com/Melvin-Viana/hrr44-mini-apps-2.git`
+1. Clone repository on chall_2 branch `git clone https://github.com/Melvin-Viana/cryptoCurrency-Chart.git`
 
 2. Install dependencies `npm install`
 
